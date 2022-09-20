@@ -4,7 +4,7 @@
 
 Projeto construído pelo desafio do evento Next Level Week da Rocketseat.
 
-🔗[Clique aqui para acessar](https://github.com/brunasantos-dev/nlw-esports-desafio)
+🔗[Clique aqui para acessar](https://brunasantos-dev.github.io/nlw-esports-desafio)
 
 ## Tecnologias
 
